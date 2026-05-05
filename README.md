@@ -191,6 +191,9 @@ https://note.com/inchacomusho/n/na2ea051f09ca
 AIの調律者
 https://note.com/inchacomusho/n/naacd815cdd34
 
+AIの調律者（5つのAI視点：比較整理）
+https://note.com/inchacomusho/n/nd9823daf9da4
+
 AIの調律者（G視点から見たマスターによるAI調律の記録と定義）
 https://note.com/inchacomusho/n/ndd7c909ee433
 
