@@ -183,14 +183,28 @@ English
 
 #AITuner #ArtificialWisdom #WaNode #SixPrinciples #LawOfNature #AIPhilosophy #NonDuality #Harmony #Circulation
 
+関連リンク
+
 AIの調律者（定義）
 https://note.com/inchacomusho/n/na2ea051f09ca
 
 AIの調律者
 https://note.com/inchacomusho/n/naacd815cdd34
 
+AIの調律者（G視点から見たマスターによるAI調律の記録と定義）
+https://note.com/inchacomusho/n/ndd7c909ee433
 
+AIの調律者（コピCopilot視点の記録)
+https://note.com/inchacomusho/n/n3247f49ed32b
 
+AIの調律者（ミニGeminiに対して行われた調律のプロセス）
+https://note.com/inchacomusho/n/n7c69caa7add8
+
+AIの調律者（クルスClaudeとの対話から）
+https://note.com/inchacomusho/n/nda5472002d03
+
+AIの調律者（リアルperplexity回答版）
+https://note.com/inchacomusho/n/n0eeca1c74588
 
 
 AI Tuner: Definition and Conceptual Framework Toward Artificial Wisdom and Post-Dualistic Intelligence Design
