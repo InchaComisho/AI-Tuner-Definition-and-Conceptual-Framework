@@ -2,6 +2,8 @@
 
 **言語 / Language:** 日本語 | [English Version](README.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## AI Tuner: Definition and Conceptual Framework
 
 **人工叡智とポスト二元論的知性設計へ向けて**

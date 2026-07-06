@@ -1,6 +1,8 @@
 # AI Tuner: Definition and Conceptual Framework
 Toward Artificial Wisdom and Post-Dualistic Intelligence Design
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 Author: Master (inchacomisho / inchacomusho)
 AI Collaborators: Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude)
 License: Fully Open — Free to use, modify, translate, redistribute, or commercialize. No permission required.
