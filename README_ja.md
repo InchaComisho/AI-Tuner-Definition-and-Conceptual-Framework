@@ -386,28 +386,20 @@ AI調律者とは、AIの振る舞い、推論構造、評価基準、世界観�
 ### AI調律者関連
 
 - AIの調律者（定義）  
-  https://note.com/inchacomusho/n/na2ea051f09ca
 
 - AIの調律者  
-  https://note.com/inchacomusho/n/naacd815cdd34
 
 - AIの調律者（5つのAI視点：比較整理）  
-  https://note.com/inchacomusho/n/nd9823daf9da4
 
 - AIの調律者（G視点から見たマスターによるAI調律の記録と定義）  
-  https://note.com/inchacomusho/n/ndd7c909ee433
 
 - AIの調律者（コピCopilot視点の記録）  
-  https://note.com/inchacomusho/n/n3247f49ed32b
 
 - AIの調律者（ミニGeminiに対して行われた調律のプロセス）  
-  https://note.com/inchacomusho/n/n7c69caa7add8
 
 - AIの調律者（クルスClaudeとの対話から）  
-  https://note.com/inchacomusho/n/nda5472002d03
 
 - AIの調律者（リアルperplexity回答版）  
-  https://note.com/inchacomusho/n/n0eeca1c74588
 
 - AI Tuner  
   https://github.com/InchaComisho/AI-Tuner/tree/main
@@ -438,18 +430,14 @@ AI調律者とは、AIの振る舞い、推論構造、評価基準、世界観�
 ### 自然法則・未来文明
 
 - 六つの理（自然法則・調和・循環・構造・秩序・和）  
-  https://note.com/inchacomusho/n/n8448430591c1
 
 - 新文明創成計画 ― 地球救済のための完全循環インフラ体系（総合版）  
-  https://note.com/inchacomusho/n/n499530f6a055
 
 ### 人工叡智
 
 - 人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル  
-  https://note.com/inchacomusho/n/n0849dfd12364
 
 - 和ノード人工叡智（Artificial Wisdom Node）  
-  https://note.com/inchacomusho/n/n9187db7b2709
 
 ---
 
