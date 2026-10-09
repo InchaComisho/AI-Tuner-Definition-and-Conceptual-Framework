@@ -1,4 +1,7 @@
 # AI Tuner: Definition and Conceptual Framework
+
+[日本語版はこちら / Japanese version](README_ja.md)
+
 Toward Artificial Wisdom and Post-Dualistic Intelligence Design
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
